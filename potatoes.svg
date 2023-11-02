@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Capa_2" data-name="Capa 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 342.68 369.31">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #432918;
+        stroke-miterlimit: 10;
+        stroke-width: 6px;
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+
+      .cls-2, .cls-3, .cls-4 {
+        opacity: .5;
+      }
+
+      .cls-5 {
+        fill: #e1df21;
+      }
+
+      .cls-6 {
+        fill: #e52420;
+      }
+
+      .cls-7 {
+        fill: #040505;
+        opacity: .95;
+      }
+
+      .cls-3 {
+        fill: #0b0c0c;
+      }
+
+      .cls-8 {
+        fill: #d3af1b;
+      }
+
+      .cls-4 {
+        fill: #f7f7f2;
+      }
+
+      .cls-9 {
+        fill: #d1941d;
+      }
+    </style>
+  </defs>
+  <g id="Draw">
+    <g>
+      <ellipse id="Box_Shadow" data-name="Box Shadow" class="cls-7" cx="171.34" cy="354.21" rx="171.34" ry="15.1"/>
+      <g id="Box">
+        <polyline class="cls-6" points="49.88 197.01 83.12 347.71 95.72 357.98 170.12 330.63 244.4 357.98 260.64 351.55 290.36 197.01 49.88 197.01"/>
+        <polygon class="cls-5" points="272.01 304.23 71.96 304.23 59.24 239.43 285.15 239.43 272.01 304.23"/>
+        <rect id="Shadow_2" data-name="Shadow 2" class="cls-4" x="89.24" y="211.98" width="132.7" height="12.41" rx="6.21" ry="6.21"/>
+        <polyline id="Shadow_1" data-name="Shadow 1" class="cls-3" points="235.16 197.01 211.16 343.11 244.4 357.98 260.64 351.55 290.36 197.01 235.16 197.01"/>
+      </g>
+      <g id="Potatoes">
+        <polyline class="cls-8" points="47.96 97.89 58.09 196.37 282.87 196.94 295.41 98.74 258.99 94.09 247.57 183.5 243.25 167.41 251.32 5.24 209.25 3.15 200.27 183.5 194.88 183.5 194.88 53.38 151.51 53.38 151.51 183.5 146.9 180.36 137.51 17.47 91.14 20.14 100.01 173.77 95.31 173.16 87.15 93.85 47.96 97.89"/>
+        <g id="Shadow_2-2" data-name="Shadow 2">
+          <polyline class="cls-9" points="70.44 95.57 92.6 195.01 97.29 192.33 87.15 93.85 70.44 95.57"/>
+          <polyline class="cls-9" points="114.13 18.82 142.04 190.95 147.69 193.93 137.51 17.47 114.13 18.82"/>
+          <polyline class="cls-9" points="165.56 53.38 153.86 185.19 151.51 53.38 165.56 53.38"/>
+          <polyline class="cls-9" points="232.32 4.29 199.76 193.84 209.25 3.15 232.32 4.29"/>
+          <polygon class="cls-9" points="278.36 98.49 275.45 195.99 282.87 196.94 295.41 98.74 278.36 98.49"/>
+        </g>
+        <g id="Shadow_1-2" data-name="Shadow 1">
+          <rect class="cls-2" x="101.72" y="26.72" width="7.32" height="67.19" rx="3.66" ry="3.66" transform="translate(-3.3 6.17) rotate(-3.3)"/>
+          <rect class="cls-2" x="104.8" y="105.14" width="7.32" height="13.7" rx="3.66" ry="3.66" transform="translate(-6.27 6.43) rotate(-3.3)"/>
+          <rect class="cls-2" x="228.83" y="137.58" width="7.32" height="13.7" rx="3.66" ry="3.66"/>
+          <rect class="cls-2" x="57.09" y="104.51" width="7.32" height="29.76" rx="3.66" ry="3.66" transform="translate(-11.91 6.85) rotate(-5.88)"/>
+          <rect class="cls-2" x="181.41" y="59.96" width="7.32" height="42.86" rx="3.66" ry="3.66"/>
+          <rect class="cls-2" x="263.49" y="102.76" width="7.32" height="42.86" rx="3.66" ry="3.66" transform="translate(17.89 -32.85) rotate(7.28)"/>
+          <rect class="cls-2" x="232.65" y="11.25" width="7.32" height="112.83" rx="3.66" ry="3.66" transform="translate(3.66 -11.67) rotate(2.85)"/>
+        </g>
+      </g>
+      <path id="Box-2" data-name="Box" class="cls-1" d="m238.86,356.67l-68.74-26.04-62.09,25.53c-11.54,4.74-24.55-2.11-27.16-14.31l-30.99-144.84h240.48l-24.7,144.34c-2.12,12.4-15.03,19.79-26.8,15.33Z"/>
+      <g id="Potatoes-2" data-name="Potatoes">
+        <rect class="cls-1" x="204.48" y="4.07" width="42.12" height="190.93" transform="translate(5.23 -11.09) rotate(2.85)"/>
+        <rect class="cls-1" x="252.57" y="96.01" width="36.72" height="99" transform="translate(20.62 -33.15) rotate(7.28)"/>
+        <rect class="cls-1" x="151.51" y="53.38" width="43.37" height="141.63"/>
+        <rect class="cls-1" x="96.19" y="18.66" width="46.44" height="176.76" transform="translate(-5.97 7.06) rotate(-3.3)"/>
+        <rect class="cls-1" x="52.92" y="95.61" width="39.4" height="99" transform="translate(-14.48 8.2) rotate(-5.88)"/>
+      </g>
+    </g>
+  </g>
+</svg>
