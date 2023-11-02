@@ -13,6 +13,6 @@
 
 - ## Uso
 
-Simplemente descarga los archivos SVG y úsalos en tus proyectos. Puedes personalizar los colores y tamaños según tus necesidades. Aquí tienes un ejemplo de cómo puedes incluir una ilustración de patatas fritas en tu código HTML:
+Simplemente descarga los archivos SVG y úsalos en tus proyectos. Puedes personalizar los colores y tamaños según tus necesidades.
 
 ![Potatoes](/preview.jpg)
